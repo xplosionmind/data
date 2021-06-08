@@ -1,0 +1,20 @@
+provider,url,from,to,current,service,amount
+Piwigo,https://tommi.piwigo.com/admin.php?page=account_manage,2021-01-18,2024-01-18,1,1,
+New York Times,https://myaccount.nytimes.com/seg/subscription/billing,2020-01-21,∞,1,1,
+Wired,https://wired.com,+++,+++,1,1,
+Protonmail,https://account.protonmail.com/u/3/subscription,2020-02-03,2022-01-18,1,1,
+Contabo,https://my.contabo.com/account/payment,2020-06-01,2022-27-11,1,1,
+AnonAddy,https://app.anonaddy.com/settings/subscription,2020-09-13,2021-09-13,1,1,12
+Iliad,https://www.iliad.it/account/,2018-07-29,∞,1,1,
+PhotoSync,https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/manageSubscriptions?mt=8,2021-04-02,2022-04-16,1,1,6.99
+Spotify,https://www.spotify.com/it/account/subscription/receipt/,2021-04-01,2022-04-01,1,1,191.88
+Club Tenco,,+++,+++,1,0,70
+Libera,,2021-01-28,2022-01-01,1,0,
+Internet Society Italian Chapter,http://isoc.it/partecipa/come-partecipare/socio-individuale,???,???,0,0,
+Flickr,https://www.flickr.com/account,2019-01-15,2021-01-15,0,1,
+Il Post,https://abbonati.ilpost.it/mio-account/view-subscription/58259/,2020-01-08,2021-01-08,0,1,80
+Vimeo,https://vimeo.com/settings/billing/purchases,2019-12-02,2020-12-02,0,1,
+ProtonVPN,https://account.protonvpn.com/dashboard,2020-02-03,2021-02-03,0,1,
+Spotify,https://www.spotify.com/it/account/subscription/receipt/,2019-06-11,2021-03-11,0,1,
+Apple Music,,2021-03-21,2021-04-21,0,1,9.99
+Plausible,https://plausible.io/settings,2021-04-13,2022-04-13,1,1,31.59
