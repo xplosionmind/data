@@ -2,3 +2,6 @@
 private/
 */private
 */*/private
+
+# Nextcloud synchronization
+.sync*
