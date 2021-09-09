@@ -1,4 +1,13 @@
-date,website,url,tags,description
+date,name,url,tags,description
+,,https://fishdraw.glitch.me/,creativity draw,procedurally generated fish drawings
+2021-08-12T12:26:44.996314+02:00,Code Guide,https://codeguide.co/,service learn resource,"Standards for developing consistent, flexible, and sustainable HTML and CSS."
+2021-08-12T09:24:48.898349+02:00,Panther,http://panther.audio/,music tool,to discover new music through an infinite suggestion graph
+2021-08-12T08:59:30.626627+02:00,Josh Comeau,https://www.joshwcomeau.com/,people design,"a wonderfully coded personal website, full of nifty little touches"
+2021-08-12T08:10:19.120197+02:00,CSS triangle generator,http://apps.eky.hk/css-triangle-generator/zh-hant,web design tool,to create triangles in CSS
+2021-07-29T13:09:25.684332+02:00,Whitebophir,https://wbo.ophir.dev/,board collaborative tool,"wonderful collaborative online whiteboard. I self-host it on <a href=""https://board.tommi.space"" target=""_blank"" title="""">board.tommi.space</a>"
+2021-07-29T12:34:07.786392+02:00,My Mind,https://my-mind.github.io/,mind mapping,online mind mapping service
+2021-07-03T18:59:34.666242+02:00,Biblioteca Possibile,https://www.riccardocrosa.it/biblioteca-possibile/,bot creativity,"a Twitter and Mastodon bot which generates fake <a href=""https://www.adelphi.it/"" target=""_blank"" title=""Adelphi Edizioni"">Adelphi</a> books every 10 minutes"
+2021-07-03T13:27:00.575934+02:00,radio.garden,http://radio.garden,music streaming,listen to live radio stations around the globe
 2020-10-27,Kinopio,https://kinopio.club/,,
 2020-10-27,Darius Kazemi’s Projects,https://tinysubversions.com/projects/,,
 2020-10-27,Playbit,https://playb.it,,
@@ -122,3 +131,13 @@ date,website,url,tags,description
 2021-05-27T11:49:30.203089+02:00,Open Foundry,https://open-foundry.com/,geek design,"A free platform for curated open-source typefaces; to highlight their beauty, activate ideas and encourage exploration."
 2021-05-31T10:33:00.885665+02:00,No Text News,https://notext.news/,geek photography,The news without the words
 2021-06-02T10:01:20.796906+02:00,Kill the Newsletter,https://kill-the-newsletter.com/,geek service,convert Newsletter to Atom feeds
+2021-06-14T10:13:15.435109+02:00,Hundredrabbits,https://100r.co/site/home.html,geek diy culture art wiki people,"A story of two people living on a sailboat. Insightful, resourceful, inspiring, smart and awesome."
+2021-06-14T10:19:03.824320+02:00,Ted Hunt,https://ted-hunt.com/,geek design art oddity,A beautifully designed website with some really good and curious entries.
+2021-06-15T10:07:08.998437+02:00,Crontab Guru,https://crontab.guru/,geek tool,super useful tool to check crontabs structure and syntax
+2021-06-16T12:27:40.715662+02:00,Image Atlas,http://www.imageatlas.org/about,geek,a search engine proxy created by Aaron Swartz in order to show different results based on location
+2021-06-16T12:55:18.679746+02:00,theinfo.org,http://theinfo.org/,geek data,large dataset of knowledge
+2021-06-17T11:00:06.254146+02:00,Cover Your Tracks,https://coveryourtracks.eff.org/,geek tool,"test browser ads, tracking, and fingerprinting protection"
+2021-06-20T09:00:36.158844+02:00,Federated Networks Association,https://feneas.org,geek fediverse,a non-profit volunteer organization that aims to spread knowledge about federated web projects and help people and projects involved in this area
+2021-07-07T07:08:26.330106+02:00,Tokimeki Unfollow,https://tokimeki-unfollow.glitch.me/,geek social tool,to unfollow accounts on Twitter
+2021-09-06T23:13:39+02:00,Mastodon instances near me,https://umap.openstreetmap.fr/en/map/mastodon-near-me_550053#3/18.90/29.62,geek map,a map of local mastodon instances
+2021-09-07T16:08:39.373382+02:00,Halycon,https://www.halcyon.social/,geek social fediverse,an online Mastodon client which makes it identical to Twitter
