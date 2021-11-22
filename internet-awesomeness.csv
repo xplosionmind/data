@@ -1,4 +1,5 @@
 date,name,url,tags,description
+2021-11-04T12:15:14+01:00,Formation,https://slay.sh,geek,A shell script to set up a macOS machine for design and development.
 2021-10-25T16:59:43+02:00,The Framework Project,https://www.theframeworkproject.com/,people geek tech,"Interviews about tech to great people, displayed in a nifty website"
 2021-10-25T16:13:02+02:00,Feelings wheel,https://feelingswheel.com/,zen,"every shade of feeling, in a wheel."
 2021-10-25T15:11:13+02:00,emotional.codes,https://emotional.codes/,tool zen,"a collection of tools by <a href='https://wesleyac.com' target='_blank' title='Wesley Aptekar-Cassels’ presonal website'>Wesley Aptekar-Cassels</a>, useful for processing emotions and having interpersonal interactions."
@@ -151,3 +152,7 @@ date,name,url,tags,description
 2021-10-01T11:17:22+02:00,The Wittgenstein Project,https://www.wittgensteinproject.org,philosophy culture,an open collection of Wittgenstein’s writings
 2021-10-04T12:55:19+02:00,Mind Mirror,https://archive.org/details/MindMirror4amCrack,geek game zen politics,"a terrific game to play with your mind, literally mindblowing."
 2021-10-13T17:11:53+02:00,The Dictionary of Obscure Sorrows,https://www.dictionaryofobscuresorrows.com/,language oddities idea,"there are not enough words in the world, let’s make some up"
+2021-11-10T08:37:34+01:00,Radicle,https://radicle.xyz/,tool geek service,a peer-to-peer stack for building software together.
+2021-11-10T09:17:11+01:00,Inner Circles,https://innercircles.community/,art ,nice website I do not really understand the purpose of.
+2021-11-15T12:38:45+01:00,Dokieli,https://dokie.li/,tool service idea fediverse,"a(n awesome) clientside editor for decentralised article publishing, annotations and social interactions."
+2021-11-18T11:25:00+01:00,CSS Shadow Palette Generator,https://www.joshwcomeau.com/shadow-palette/,tool,
