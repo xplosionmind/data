@@ -1,6 +1,6 @@
 title,color,background,description
 geek,#D9F8EF,"linear-gradient(160deg, #5E60CE, #6F00B1)","The title says it all. Geek stuff. Notes, resources indexing, useful shortcuts and any sort of knowledge to always have at hand."
-zen,#FFF3E6,"linear-gradient(160deg, #1A508B, #0D335D)","About improving life, relationships, productivity, etc.<br />Everything which should make me happier."
+zen,#FFF3E6,"linear-gradient(160deg, #1A508B, #0D335D)","About improving life, relationships, productivity, etc.<br>Everything which should make me happier."
 cinema,#FAEFEA,"linear-gradient(160deg, #F28F3B, #C8553D)",Stuff about cinema
 draft,#F2E9E4,"linear-gradient(160deg, #4A4E69, #22223B)",To finish writing down
 wip,var(--white-ish),"linear-gradient(160deg, #222222, #030303)",Work in progress content

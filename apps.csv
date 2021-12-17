@@ -1,4 +1,5 @@
 name,url,title,description,os,opensource,price,remember,installed,uninstalled
+termius,https://termius.com/,,a SSH client that works on desktop and mobile. Termius securely syncs data across all your devices.,MacOS,,,2021-12-15T12:59:36+01:00,2021-12-15T12:59:04+01:00,not so fundamentally useful for my necessities
 tea,https://gitea.com/gitea/tea, on Gitea,a tool to interact with Gitea servers,terminal,1,,,2021-12-09T11:01:10+01:00,
 Actions,https://sindresorhus.com/actions,,additional actions for the Shortcuts app.,MacOS,1,,,2021-12-06T10:57:10+01:00,
 AnkiMobile Flashcards,https://apps.apple.com/us/app/ankiapp-flashcards/id689185915, on the App Store,"a powerful, intelligent flashcard program to improve long-term memory",iOS,1,,,2021-11-22T13:40:55+01:00,
@@ -50,12 +51,12 @@ ncspot,https://github.com/hrkfdn/ncspot, on GitHub,"a terminal <a href=""https:/
 Rustdesk,https://rustdesk.com,,"an open source <a href=""https://teamviewer.com"" target=""_blank"" title=""TeamViewer"">TeamViewer</a> alternative",MacOS,1,,,,
 Rclone,https://rclone.org/,,a command line program to manage files on cloud storage.,MacOS,1,,,,
 Adobe Lightroom Classic,https://www.adobe.com/products/photoshop-lightroom-classic.html,,"alas, the best photo editing software out there. I hate Adobe, but it works so damn good. I’m doing my best to completely switch to the two following programs but, damn, it’s so hard. Also: I have to keep Lightroom on my device because it’s impossible to move photography edits committed with Lightroom to Darktable.",MacOS,,,,,
-Adobe Photoshop,https://www.adobe.com/products/photoshop.html,,". I tried living without it. I couldn't. Hands down, it's the best visual editing software in the world. You could do anything with it.",MacOS,,,,,
+Adobe Photoshop,https://www.adobe.com/products/photoshop.html,,". I tried living without it. I couldn't. Hands down, it’s the best visual editing software in the world. You could do anything with it.",MacOS,,,,,
 AEScrypt,https://www.aescrypt.com,,file encrypter and decrypter,MacOS,1,,,,". I do not use it. If needed, same stuff can be done via CLI"
 AlDente,https://github.com/davidwernhart/AlDente, source code on GitHub,a MacBook utility to avoid over-charging the battery when the device is plugged and it have reached 100% charge,MacOS,1,,,,
 Android File Transfer,https://www.android.com/filetransfer/,,the name says it all. It’s simple and it works great.,MacOS,,,,,. I do not own an Android device anymore.
 AppCleaner,https://freemacsoft.net/appcleaner,,"a neat, simple and efficient app to remove data of uninstalled apps",MacOS,,,,,
-Audacity,https://www.audacityteam.org/,,"audio editing software. I know, I have Garage Band which is awesome but… Audacity works the same way anywhere.",MacOS,1,,,,"I need very little sound editing, mixing, etc: GarageBand is fine; furthermore, it's neat, simple and quick."
+Audacity,https://www.audacityteam.org/,,"audio editing software. I know, I have Garage Band which is awesome but… Audacity works the same way anywhere.",MacOS,1,,,,"I need very little sound editing, mixing, etc: GarageBand is fine; furthermore, it’s neat, simple and quick."
 Background Music,https://github.com/kyleneideck/BackgroundMusic, on GitHub,to handle audio sources and audio recording,MacOS,1,,,,not using it that much
 Backtrack,https://www.backtrack.team/,,the Holy Graal for university students which get easily distracted (me). It allows you to recover audio up to 5 hours before. It’s not Open Source and I payed 2€ for it. Totally worth it.,MacOS,,,,,
 balenaEtcher,https://www.balena.io/etcher/,,"the safest, simplest and quickest software to flash OS images to external drives.",MacOS,1,,,,I do not flash devices daily
@@ -96,7 +97,7 @@ Joplin,https://joplinapp.org,,"basically it’s just a note-taking application, 
 Karabiner-Elements,https://karabiner-elements.pqrs.org/,,"keyboard remapping. I use it to swap the `esc` key with ⇪, for a better usability in vim",MacOS,1,,,,
 KeePassXC,https://keepassxc.org,,"a community maintained fork of the popular discontinued [KeePassX](https://www.keepassx.org/ ""KeePassX official website"") application with more features and frequent updates.",MacOS,1,,,,
 Keybase,https://keybase.io/,,a great secure messaging service,MacOS,1,,,,
-LBRY,https://lbry.com/,,"the first digital marketplace to be controlled by the market's participants rather than a corporation or other 3rd-party. Basically, a healthier version of YouTube",MacOS,1,,,,
+LBRY,https://lbry.com/,,"the first digital marketplace to be controlled by the market’s participants rather than a corporation or other 3rd-party. Basically, a healthier version of YouTube",MacOS,1,,,,
 LibreOffice,https://www.libreoffice.org/,,the best open Office Suite.,MacOS,1,,,,
 LyricsX,https://github.com/ddddxxx/LyricsX, on GitHub,a lyrics app which integrates with Spotify and Apple Music,MacOS,1,,,,
 MacDown,https://macdown.uranusjr.com/,,"a markdown editor which has everything I need. I don’t use it much since I have both Joplin and Vim to open and edit `.md` files, but it’s very lightweight and it’s handy to have an app to view and edit them on the fly.",MacOS,1,,,,
@@ -123,13 +124,13 @@ ProtonVPN,https://protonvpn.com/,,"a security-focused VPN developed by CERN scie
 qBittorrent,https://qbittorrent.org/,,the best and lightest torrent client you can find out there,MacOS,1,,,,
 Rectangle,https://rectangleapp.com/,,a window management app which allows to resize windows quickly with a simple keystroke.,MacOS,1,,,,
 Signal,/signal,,"the best encryption system in the world, easy and fast communication, plus, it’s owned by a non-profit. Thus, a healthier WhatsApp.",MacOS,1,,,,
-Skype,https://skype.com,,"you know it. Proprietary software, [ouch](http://stallman.org/skype.html ""Reasons not to use Skype, from Richard Stallman's blog"")",MacOS,,,,,
+Skype,https://skype.com,,"you know it. Proprietary software, [ouch](http://stallman.org/skype.html ""Reasons not to use Skype, from Richard Stallman’s blog"")",MacOS,,,,,
 smcFanControl,https://github.com/hholtmann/smcFanControl, on GitHub,to control the fans of the Mac to make it run cooler,MacOS,1,,,,
 Sozi,https://sozi.baierouge.fr,,a presentation tool which uses SVG images to create zooming and panning animations. It’s astounding how cool it is.,MacOS,1,,,,
 Spotify,https://www.spotify.com,,to listen to music by paying and using proprietary software. Any legal affordable solution? I can’t find one. I’m stuck with this.,MacOS,,,,,using <a href='https://github.com/jpochyla/psst ' target='_blank' title='Psst on GitHub'>Psst</a> instead
 Sub It,https://github.com/Kevin-De-Koninck/Sub-It, on GitHub,"a GUI interface for `Subliminal`, a tool to download movie subtitles ithout ads",MacOS,1,,,,
 Telegram,https://telegram.org/,,"WhatsApp on steroids. I wish the back-end software was Open Source, too.",MacOS,,,,,
-Timer,https://github.com/michaelvillar/timer-app, on GitHub,sometimes it's quicker to set it from the laptop than from my smartphone,MacOS,1,,,,
+Timer,https://github.com/michaelvillar/timer-app, on GitHub,sometimes it’s quicker to set it from the laptop than from my smartphone,MacOS,1,,,,
 TinyPNG4Mac,https://github.com/kyleduo/TinyPNG4Mac, on GitHub,simply and quickly resize PNGs,MacOS,1,,,,
 The Desk,https://thedesk.top/,,something like TweetDeck for Mastodon (and all of the Fediverse apps),MacOS,1,,,,
 TomatoBar,https://github.com/ivoronin/TomatoBar, on GitHub,set simple working timers,MacOS,1,,,,
@@ -157,7 +158,7 @@ ExifTool,/exiftool,,an awesome and extremely useful little tool to edit almost a
 ffsend,https://github.com/timvisee/ffsend, on GitHub,a CLI tool for Firefox Send,terminal,1,,,,
 yst,https://github.com/jgm/yst, on GitHub,create static websites from YAML data and string templates,terminal,1,,,,
 lnav,https://lnav.org/, on GitHub,log files navigator,terminal,1,,,,
-Pandoc,https://pandoc.org/,,"a lovely swiss-army knife for document conversion. NOTE: I admire its genius creator, he’s a Philosopher developer whose name is [John MacFarlane](https://www.johnmacfarlane.net/ ""John MacFarlane's personal website"")",terminal,1,,,,
+Pandoc,https://pandoc.org/,,"a lovely swiss-army knife for document conversion. NOTE: I admire its genius creator, he’s a Philosopher developer whose name is [John MacFarlane](https://www.johnmacfarlane.net/ ""John MacFarlane’s personal website"")",terminal,1,,,,
 megacmd,https://mega.nz/cmd,,"a command-line tool to do actually anything with [Mega](https://mega.nz ""MEGA"")",terminal,1,,,,
 m-cli,https://github.com/rgcr/m-cli, on GitHub,Swiss Army knife for MacOS,terminal,1,,,,
 miller,https://github.com/johnkerl/miller, on GitHub,CSV sorting and editing tool (something like a combination of sed and awk),terminal,1,,,,
@@ -177,7 +178,7 @@ AnonAddy,https://anonaddy.com,,"mobile client for [AnonAddy](https://anonaddy.co
 AntennaPod,https://antennapod.org,,the best podcast player for Android,Android,1,,,,
 AnySoftKeyboard,https://anysoftkeyboard.github.io,,"simple, neat and lightweight yet feature-rich keyboard. Settings are a bit messy.",Android,1,,,,
 Audius,https://audius.co,,"[Audius Music](https://audius.co ""Audius Music official website"") mobile client.",Android,1,,,,
-Banca Etica,https://play.google.com/store/apps/details?id=it.bancaetica.bank, on Google Play,"internet banking for [Banca Etica](https://www.bancaetica.it ""Banca Etica""). It's not open source and it works very badly. Considering to uninstall it, since the web client is exactly the same.",Android,,,,,
+Banca Etica,https://play.google.com/store/apps/details?id=it.bancaetica.bank, on Google Play,"internet banking for [Banca Etica](https://www.bancaetica.it ""Banca Etica""). It’s not open source and it works very badly. Considering to uninstall it, since the web client is exactly the same.",Android,,,,,
 Bandcamp,https://bandcamp.com,,"mobile client for [Bandcamp](https://bandcamp.com ""Bandcamp"").",Android,,,,,
 Barinsta,https://barinsta.austinhuang.me/en/latest/,,"a lightweight Instagram client for Android. You cannot post from there, but you can search and view public stuff without having to login.",Android,1,,,,
 Blokada,https://blokada.org/,,"efficient and powerful ad blocker. It has some issues working with VPN on, still trying to fix it",Android,1,,,,
@@ -295,7 +296,7 @@ FTPManager Pro,https://apps.apple.com/us/app/ftpmanager-pro/id522627917, on the 
 GitHub,https://github.com/mobile,,,iOS,1,,,,
 Hype,,,,iOS,,,,,
 Imaging Edge Mobile,https://support.d-imaging.sony.co.jp/app/iemobile/,,to import images from [my Sony camera](https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-6500-body-kit).,iOS,,,,,
-IO,https://io.italia.it/,,the very promising  Open Source app to manage Italian public services,iOS,1,,,,
+IO,https://io.italia.it/,,the very promising Open Source app to manage Italian public services,iOS,1,,,,
 iSH,https://ish.app/,,a terminal emulator fo iOS,iOS,1,,,,
 Jami,https://jami.net/download-jami-ios/,,Open Source peer-to-peer communication app,iOS,1,,,,
 Jitsi Meet,https://jitsi.org/#download,,"video conferencing, same as on Mac",iOS,1,,,,
