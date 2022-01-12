@@ -1,0 +1,13 @@
+name: Parse CV
+on: push
+jobs:
+  parse-it:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: docker://pandoc/core:latest
+        with:
+          args: >-
+            --standalone
+            --output='Curriculum Vitae di Tommaso Marmo.pdf'
+            input.txt
+#  parse-en:
