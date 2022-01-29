@@ -239,7 +239,6 @@ when,title,imdb,lat,lon,where,notes,favorite
 2019-07-17,Friends with Benefits,tt1632708,,,,,
 2019-07-19,Midnight Cowboy,tt0064665,,,,,
 2019-07-20,Lost in London,tt6338476,,,,,
-2019-07-20,Lost in London,tt6338476,,,,,
 2019-07-20,Un giorno all'improvviso,tt8589792,,,,,
 2019-07-21,Ocean's Thirteen,tt0496806,,,,,
 2019-07-25,Monos,tt6062774,,,,,
@@ -368,6 +367,8 @@ when,title,imdb,lat,lon,where,notes,favorite
 2022-01-15T10:12:04+01:00,The Internet’s Own Boy: The Story of Aaron Swartz,tt3268458,"43,83586","7,87679",torrent,,
 2022-01-18T23:03:31+01:00,Pleasure,tt8550054,"43,83586","7,87679",torrent,,
 2022-01-19T00:50:21+01:00,Miss Congeniality,,,,,,
+,,,,,,,
+2022-01-21T17:55:15+01:00,Avengers: Infinity War,,"43,8364311110596","7,87671671610131",torrent,rewatch,
+2022-01-21T22:38:05+01:00,Tre Piani,,"43,8365621273231","7,87668441829182",torrent,con mamma e papà,
 
-2022-01-21T17:55:15+01:00,"Avengers: Infinity War",,43.83643111105955,7.876716716101312,torrent,rewatch
-2022-01-21T22:38:05+01:00,"Tre Piani",,43.83656212732305,7.876684418291815,torrent,con mamma e papà
+2022-01-22T21:43:35+01:00,"Lost S02E05-09",,43.83778025925602,7.881833745575957,torrent,

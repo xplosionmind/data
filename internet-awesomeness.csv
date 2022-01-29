@@ -1,4 +1,7 @@
 added,title,url,tags,description
+2022-01-27T10:30:00+01:00,Boom.ink,https://boom.ink/,design org,"A design studio based in Padova, Italy"
+2022-01-27T10:26:56+01:00,Anner Visser,https://annervisser.nl/,personal geek odd,a personal website into an Ubuntu terminal
+2022-01-27T09:19:54+01:00,"I love you, computer",http://iloveyou.computer/,odd audio,empathy with a machine
 2022-01-17T13:11:09+01:00,Inside the head,https://insidethehead.co/,poetry design,"a beautiful collection of poems that becomes an experience to read. I usually despise representations of writings with bells and whistles, but in this case all of the illustrations and animations enhance the meaning of the written content, rather than disturbing it."
 2022-01-17T12:57:30+01:00,Bruno Simon,https://bruno-simon.com/,personal design 3D,this designer was able to transform his portfolio website in a stunningly beautiful 3D game
 2022-01-17T12:48:52+01:00,Niccolò Miranda,https://www.niccolomiranda.com/,personal design,personal website of a very skilled designer who managed to make it look like a newspaper. Colors and fonts are so appealing.
@@ -64,7 +67,7 @@ added,title,url,tags,description
 2020-12-15,Webapp Tools,https://webapp.tools,,
 2020-12-15,1 Point,https://1pt.co,geek service,URL shortener
 2020-12-15,Unavatar,https://unavatar.now.sh,,
-2020-12-16,Excalidraw,https://excalidraw.com,,
+2020-12-16,Excalidraw,https://excalidraw.com,tool design drawing,drawing freely
 2021-01-06,Litewrite,https://litewrite.net,,
 2021-01-06,0data,https://0data.app,,
 2021-01-06,Find internet4000,https://find.internet4000.com,,
@@ -112,7 +115,6 @@ added,title,url,tags,description
 2021-03-16,Laurent Raufaste,http://www.glop.org,people,
 2021-03-16,Gradient Avatar,https://gradient-avatar.glitch.me/xplosionmind,,
 2021-03-16,Online Life Calendar,https://www.onlinelifecalendar.com,,
-2021-03-20,Excalidraw,https://excalidraw.com,tool design drawing,drawing freely
 2021-03-20,Brand Colors,https://brandcolors.net,design,
 2021-03-20,Tint & shade generator,https://maketintsandshades.com,web design,generate shades of a given color
 2021-03-22,Expolibre,https://expolibre.org,geek event,
@@ -137,7 +139,7 @@ added,title,url,tags,description
 2021-05-02,ResultMaps,http://resultmaps.neis-one.org,maps geek,"several kinds of maps, based on OpenStreetMap"
 2021-05-02,Lektor,https://www.getlektor.com,geek tool,interesting static site generator
 2021-05-02,Jacob Hall’s WebRing,https://jacobhall.net/links.html,people webring,
-2021-05-11T08:51:12+02:00,homebrewserver.club,homebrewserver.club,web diy,self hosting from home
+2021-05-11T08:51:12+02:00,homebrewserver.club,https://homebrewserver.club,web diy,self hosting from home
 2021-05-14,Cittadino Medio,https://cittadinomedio.online,learn,buone abitudini online che il cittadino medio non persegue
 2021-05-15,Bill My Pocket,https://billmypocket.netlify.app,money,"List of subscriptions that are globally budget friendly, thanks to regional pricing."
 2021-05-15,Ad Block Test,https://d3ward.github.io/toolz/src/adblock,tool,test how many trackers your browser blocks
@@ -172,3 +174,4 @@ added,title,url,tags,description
 2021-12-23T23:56:26+01:00,Astral,https://astralapp.com,tool geek service,a service to organize and manage starred GitHub repositories
 2022-01-04T14:34:56+01:00,Cosmic Voyage,https://cosmic.voyage,fiction,"a tilde community based around a collaborative science-fiction universe. Users write stories as the people aboard ships, colonies, and outposts, using the only remaining free, interconnected network that unites the dispersed peoples of the stars."
 2022-01-08T22:02:41+01:00,Isaac Clayton,https://slightknack.dev,personal web,personal website
+2022-01-23T08:01:07+01:00,Thomas Orus,https://thomasorus.com/home.html,personal design,Nice and comfy personal website of a French web designer
