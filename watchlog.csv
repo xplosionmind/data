@@ -1,4 +1,8 @@
 when,title,imdb,lat,lon,where,notes,favorite
+2022-02-18T01:51:41+01:00,Manifest S02E12-13,,,,,,
+2022-02-14T23:41:57+01:00,How I Met Your Father S01E01-05,,,,,,
+2022-02-12T15:49:25+01:00,The Bourne Identity,,,,,,
+2022-02-12T13:36:00+01:00,Love & Other Drugs,,,,,,
 2022-02-02T15:57:52+01:00,Manifest S01E07-08,,,,,,
 2022-02-02T01:00:45+01:00,Manifest S01E04-06,,,,,,
 2022-02-02T00:18:19+01:00,Manifest S01E01-03,,,,,,
@@ -30,7 +34,7 @@ when,title,imdb,lat,lon,where,notes,favorite
 2018-12-10,Blackhat,tt2717822,,,,,
 2018-12-10,Brave,tt1217209,,,,,
 2018-12-10,Broeders,tt6314294,,,,,
-2018-12-10,CafÃ¨ Society,tt4513674,,,,,
+2018-12-10,Cafè Society,tt4513674,,,,,
 2018-12-10,Call Me by Your Name,tt5726616,,,,,
 2018-12-10,Captain America: Civil War,tt3498820,,,,,
 2018-12-10,Captain America: The First Avenger,tt0458339,,,,,
@@ -249,8 +253,8 @@ when,title,imdb,lat,lon,where,notes,favorite
 2019-07-25,Monos,tt6062774,,,,,
 2019-08-27,Everyone,tt10851718,,,,,
 2019-09-18,Once Upon a Time in America,tt0087843,,,,,
-2019-09-18,Once Upon a Timeâ€¦  in Hollywood,tt7131622,,,,,
-2019-10-03,Il sindaco del Rione SanitÃ ,tt9778888,,,,,
+2019-09-18,Once Upon a Time…  in Hollywood,tt7131622,,,,,
+2019-10-03,Il sindaco del Rione Sanità,tt9778888,,,,,
 2019-10-05,Viito: Una Festa,tt8440098,,,,,
 2019-10-26,Taxi Driver,tt0075314,,,,,
 2019-11-17,Back to the Future,tt0088763,,,,,
@@ -272,7 +276,7 @@ when,title,imdb,lat,lon,where,notes,favorite
 2020-01-19,Magic in the Moonlight,tt2870756,,,,,
 2020-01-19,Talk Radio,tt0096219,,,,,
 2020-01-27,The Usual Suspects,tt0114814,,,,,
-2020-03-13,Il ragazzo piÃ¹ felice del mondo,tt8936306,,,,,
+2020-03-13,Il ragazzo più felice del mondo,tt8936306,,,,,
 2020-03-14,Her,tt1798709,,,,,
 2020-03-16,Carmela's diary,tt9067644,,,,,
 2020-03-17,7 km da Gerusalemme,tt1002740,,,,,
@@ -284,7 +288,7 @@ when,title,imdb,lat,lon,where,notes,favorite
 2020-03-24,Dalida,tt5039860,,,,,
 2020-03-24,Fortunata,tt6306400,,,,,
 2020-03-24,La bellezza del somaro,tt1523493,,,,,
-2020-03-24,Salmo: LunedÃ¬,tt10398136,,,,,
+2020-03-24,Salmo: Lunedì,tt10398136,,,,,
 2020-03-24,The Giornalisti: Questa Nostra Stupida Canzone d'Amore,tt9839006,,,,,
 2020-03-27,Bronson,tt1172570,,,,,
 2021-07-02T16:53:01+02:00,xXx,tt0295701,"43,83586","7,87679",torrent,,
@@ -312,7 +316,7 @@ when,title,imdb,lat,lon,where,notes,favorite
 2021-11-08T20:36:54+01:00,Habemus Papam,tt1456472,"45,432089","12,323797",torrent,,
 2021-11-18T21:07:13+01:00,Shang-Chi And The Legend Of The Ten Rings,tt9376612,"45,432089","12,323797",torrent,,
 2021-11-18T23:50:27+01:00,No Time To Die,tt2382320,"45,432089","12,323797",torrent,,
-2021-11-26,Rifkinâ€™s Festival,tt8593904,"45,432089","12,323797",torrent,,
+2021-11-26,Rifkin’s Festival,tt8593904,"45,432089","12,323797",torrent,,
 2021-11-26,The Wheel of Time S01E01-05,tt7462410,"45,432089","12,323797",torrent,,
 2021-11-28T00:41:42+01:00,SAS: Red Notice,tt4479380,"45,432089","12,323797",torrent,,
 2021-11-28T21:55:02+01:00,Red Notice,tt7991608,"45,432089","12,323797",torrent,,
@@ -334,7 +338,7 @@ when,title,imdb,lat,lon,where,notes,favorite
 2021-12-14T19:57:52+01:00,The French Dispatch,tt8847712,"45,432089","12,323797",torrent,,
 2021-12-16T02:41:27+01:00,Hawkeye S01E07,tt10160804,"45,432089","12,323797",torrent,,
 2021-12-16T03:29:33+01:00,What If S01E01,tt10168312,"45,432089","12,323797",torrent,,
-2021-12-23T00:13:11+01:00,Ãˆ stata la mano di Dio,tt12680684,"43,83586","7,87679",torrent,appacioccato con mamma e papÃ ,
+2021-12-23T00:13:11+01:00,È stata la mano di Dio,tt12680684,"43,83586","7,87679",torrent,appacioccato con mamma e papà,
 2021-12-29T19:31:20+01:00,The Wheel of Time S01E09,tt7462410,"43,83586","7,87679",torrent,,
 2021-12-29T22:49:50+01:00,Hawkeye S01E06,tt10160804,"43,83586","7,87679",torrent,,
 ,Captain Fantastic,tt3553976,,,,,1
@@ -343,7 +347,7 @@ when,title,imdb,lat,lon,where,notes,favorite
 ,La La Land,tt3783958,,,,,1
 ,Manhattan,tt0079522,,,,,1
 ,Moonrise Kingdom,tt1748122,,,,,1
-,Oceanâ€™s Eleven,tt0240772,,,,,1
+,Ocean’s Eleven,tt0240772,,,,,1
 ,Perfetti Sconosciuti,tt4901306,,,,,1
 ,Radiofreccia,tt0169164,,,,,1
 ,The Blues Brothers,tt0080455,,,,,1
@@ -358,7 +362,7 @@ when,title,imdb,lat,lon,where,notes,favorite
 2022-01-02T18:13:27+01:00,The Amazing Spider-Man,tt0948470,"43,83586","7,87679",Stremio,,
 2022-01-02T21:12:42+01:00,The Amazing Spider-Man 2,tt1872181,"43,83586","7,87679",Stremio,,
 2022-01-02T23:44:25+01:00,Rent,tt0294870,"43,83586","7,87679",torrent,,
-2022-01-06T15:28:00+01:00,Donâ€™t Look Up,tt11286314,"43,83586","7,87679",torrent,,
+2022-01-06T15:28:00+01:00,Don’t Look Up,tt11286314,"43,83586","7,87679",torrent,,
 2022-01-06T19:20:31+01:00,Matrix Revolutions,tt0242653,"43,83586","7,87679",Stremio,,
 2022-01-06T21:38:07+01:00,The Misfits,tt4876134,"43,83586","7,87679",Stremio,,
 2022-01-07T00:35:57+01:00,Monster Hunter,tt6475714,"43,83586","7,87679",torrent,,
@@ -369,11 +373,11 @@ when,title,imdb,lat,lon,where,notes,favorite
 2022-01-12T15:16:20+01:00,Eternals,tt9032400,"43,83586","7,87679",torrent,,
 2022-01-12T17:31:23+01:00,Crazy Rich Asians,tt3104988,"43,83586","7,87679",torrent,,
 2022-01-14T18:03:39+01:00,Lucifer S01 S02,tt4052886,"43,83586","7,87679",torrent,,
-2022-01-15T10:12:04+01:00,The Internetâ€™s Own Boy: The Story of Aaron Swartz,tt3268458,"43,83586","7,87679",torrent,,
+2022-01-15T10:12:04+01:00,The Internet’s Own Boy: The Story of Aaron Swartz,tt3268458,"43,83586","7,87679",torrent,,
 2022-01-18T23:03:31+01:00,Pleasure,tt8550054,"43,83586","7,87679",torrent,,
 2022-01-19T00:50:21+01:00,Miss Congeniality,,,,,,
 ,,,,,,,
 2022-01-21T17:55:15+01:00,Avengers: Infinity War,,"43,8364311110596","7,87671671610131",torrent,rewatch,
-2022-01-21T22:38:05+01:00,Tre Piani,,"43,8365621273231","7,87668441829182",torrent,con mamma e papÃ ,
+2022-01-21T22:38:05+01:00,Tre Piani,,"43,8365621273231","7,87668441829182",torrent,con mamma e papà,
 ,,,,,,,
 2022-01-22T21:43:35+01:00,Lost S02E05-09,,"43,837780259256","7,88183374557596",torrent,,
