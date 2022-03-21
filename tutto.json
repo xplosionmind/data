@@ -1,5 +1,43 @@
 [
   {
+    "start": "2022-03-14T16:30:00+01:00",
+    "end": "2022-03-14T17:45:00+01:00",
+    "title": "Democracy in the age of the internet",
+    "url": "https://www.unive.it/data/33113/1/55393",
+    "tags": ["uni","event","philosophy"],
+    "location": "Aula Morelli",
+    "people": ["Renato Janine Ribeiro", "Fabrizio Turoldo"]
+  },
+  {
+    "start": "2022-02-26T15:00:00+01:00",
+    "end": "2022-02-26T23:03:34+01:00",
+    "title": "Scambi Presenta",
+    "image": "https://nuvola.scambi.org/s/tx2bdFSMsZrX3z3",
+    "video": "",
+    "url": "https://scambi.org/presenta/",
+    "tags": ["scambi","event","host"],
+    "location": "online",
+    "notes": "Il trampolino di lancio per l’edizione 2022 di Scambi Festival",
+    "people": ["Jori", "Piter", "Vladi", "Barrio BuiDLers", "Silvana Ormea"],
+    "data":[
+      {
+        "what": "Il mio discorso introduttivo",
+        "url": "https://www.instagram.com/tv/CaceajQJ0sF/"
+      }
+    ]
+  },
+  {
+    "start": "2022-02-22T21:00:00+01:00",
+    "end": "2022-02-22T23:03:34+01:00",
+    "title": "I giovani e la pandemia: un metodo <q>paneuretico</q> per uscirne tutti più… positivi",
+    "image": "https://tommi.space/2022-02-22-incontro-giovani-pandemia.jpg",
+    "video": "https://youtu.be/qSWyxBOdF5A?t=24",
+    "tags": ["ac","host"],
+    "location": "online",
+    "notes": "ho moderato l’evento, organizzato da <q><a href='https://www.youtube.com/channel/UC9SIkDaDDXZeppk7wVx2jXQ' target='_blank' title='La Coperta di Yusuf su YouTube'>La Coperta di Yusuf</a></q>",
+    "people": ["Fulvio Fellegara", "Fulvio Rombo", "Maria Paola Rottino"]
+  },
+  {
     "start": "2019-01-28",
     "end": "2019-01-31",
     "title": "Stage al Dipartimento di Matematica dell’Università di Genova",
@@ -1180,8 +1218,8 @@
     "notes": "incontro con Don Domenico Cambareri"
   },
   {
-    "start": 2014,
-    "end": 2018,
+    "start": "2014-01-01",
+    "end": "2018-01-01",
     "title": "Allenamenti Coppa Gauss",
     "url": "https://gauss.dima.unige.it",
     "location": "Liceo G.D. Cassini Sanremo",
