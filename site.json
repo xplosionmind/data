@@ -1,7 +1,7 @@
 {
-    "name": "tommi.space",
     "title": "Tommi’s mind",
     "url": "https://tommi.space",
+    "domain": "tommi.space",
     "author":{
         "name": "Tommi",
         "email": "surfing@tommi.space"
