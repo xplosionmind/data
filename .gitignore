@@ -1,7 +1,5 @@
-# not shareable content
+# private content
 private/
-*/private
-*/*/private
 
 # Nextcloud synchronization
 .sync*
