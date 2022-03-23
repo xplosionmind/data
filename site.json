@@ -1,12 +1,13 @@
 {
     "name": "tommi.space",
-    "title": "tommi.space",
+    "title": "Tommi’s mind",
     "url": "https://tommi.space",
-    "authorName": "Tommi",
-    "author": "Tommi",
-    "authorUrl": "https://tommi.space/about",
+    "author":{
+        "name": "Tommi",
+        "email": "surfing@tommi.space"
+    },
+    "primary": "#FCC920",
     "description": "The virtual representation of the mess inside Tommi’s mind",
-    "email": "surfing@tommi.space",
     "favicon": "https://tommi.space/favicon.ico",
     "image": "/tommi.space.wip.png",
     "tags":[
